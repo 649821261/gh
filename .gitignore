@@ -1,0 +1,6 @@
+/build/contracts/*
+!/build/contracts/PreIco.json
+/dist/
+/installed_contracts/
+/node_modules/
+/npm-debug.log

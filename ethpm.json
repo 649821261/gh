@@ -1,0 +1,14 @@
+{
+  "package_name": "coincrowd",
+  "version": "0.1.0",
+  "description": "CoinCrowd token",
+  "authors": [
+    "Nicola Squartini <tensor5@gmail.com>"
+  ],
+  "keywords": [
+  ],
+  "dependencies": {
+    "zeppelin": "1.2.0"
+  },
+  "license": "MIT"
+}
